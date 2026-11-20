@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# Model checkpoints
+*.pth
+*.pt
+*.bin
+*.safetensors
+checkpoints/
+runs/
+
+# Kaggle outputs
+working/

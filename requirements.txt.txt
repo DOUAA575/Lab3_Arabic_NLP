@@ -1,0 +1,12 @@
+torch
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+nltk
+camel-tools
+transformers==4.46.3
+tokenizers==0.20.3
+datasets==3.1.0
+accelerate==1.1.1
